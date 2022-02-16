@@ -1,2 +1,2 @@
-# hackerrank_automation
+# Hackerrank Automation
 Automates Hackerrank using Puppeteer Library
